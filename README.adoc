@@ -1,0 +1,11 @@
+= editorconfig
+
+Generate editorconfig
+
+== Install
+
+[source,shell]
+----
+fisher add github.com/mimikun/editorconfig
+----
+
