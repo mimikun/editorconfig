@@ -6,6 +6,7 @@ Generate editorconfig
 
 [source,shell]
 ----
+curl https://raw.githubusercontent.com/mimikun/dotfiles/master/.editorconfig-template > $HOME/.editorconfig-template
 fisher add github.com/mimikun/editorconfig
 ----
 
